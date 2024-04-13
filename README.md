@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam-das-07&label=Profile%20views&color=0e75b6&style=flat" alt="rupam-das-07" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently learning **Web Development - MERN Stack**
 
-- 🌱 I’m currently learning **Javascript, React JS, DSA**
+- 🌱 I’m going to learn **Java , DSA , TypeScript**
 
 - 🤝 I’m looking for joining as a **Software Developer**
 
@@ -13,7 +13,7 @@
 
 - My CV: [https://drive.google.com/file/d/1YjIGP9DN6kSm8yEyIXAP54QBM4CqwjP0/view?usp=sharing](https://drive.google.com/file/d/1YjIGP9DN6kSm8yEyIXAP54QBM4CqwjP0/view?usp=sharing)
 
-- ⚡ Fun fact **When I'm not coding, you can find me perfecting my typing skills or attempting to master my esports career.**
+- ⚡ Fun fact **When I'm not coding, you can find me perfecting my typing skills or attempting to know about what are the tredning topics going on.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
