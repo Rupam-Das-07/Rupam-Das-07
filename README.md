@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **rupamdas.mdh@gmail.com**
 
-- My CV: [https://drive.google.com/file/d/1YjIGP9DN6kSm8yEyIXAP54QBM4CqwjP0/view?usp=sharing](https://drive.google.com/file/d/1YjIGP9DN6kSm8yEyIXAP54QBM4CqwjP0/view?usp=sharing)
-
 - ⚡ Fun fact **When I'm not coding, you can find me perfecting my typing skills or attempting to know about what are the tredning topics going on.**
 
 <h3 align="left">Connect with me:</h3>
